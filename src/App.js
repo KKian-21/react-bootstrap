@@ -114,7 +114,7 @@ function App() {
                 <div class="row p-3 mt-5">
                     <div class="col-lg-4 col-md-12 mb-5">
                         <div class="contentBestPictures">
-                            <img src=".\bild1.jpg" class="img-fluid bestPictures" loading="lazy"/>
+                            <img src="assets/image/bild1.jpg" class="img-fluid bestPictures" loading="lazy"/>
                         </div>
                         <h4 class="my-4 mb-1">Shop</h4>
                         <p class="text-white">This is a good Experience for me.</p>
@@ -224,19 +224,19 @@ function App() {
                 <div class="col-6 col-md">
                     <h5>Resources</h5>
                     <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="#">Resource</a></li>
-                    <li><a class="text-muted" href="#">Resource name</a></li>
-                    <li><a class="text-muted" href="#">Another resource</a></li>
-                    <li><a class="text-muted" href="#">Final resource</a></li>
+                    <li><a class="text-muted" >Resource</a></li>
+                    <li><a class="text-muted" >Resource name</a></li>
+                    <li><a class="text-muted" >Another resource</a></li>
+                    <li><a class="text-muted" >Final resource</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Resources</h5>
                     <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="#">Business</a></li>
-                    <li><a class="text-muted" href="#">Education</a></li>
-                    <li><a class="text-muted" href="#">Government</a></li>
-                    <li><a class="text-muted" href="#">Gaming</a></li>
+                    <li><a class="text-muted" >Business</a></li>
+                    <li><a class="text-muted" >Education</a></li>
+                    <li><a class="text-muted" >Government</a></li>
+                    <li><a class="text-muted" >Gaming</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">

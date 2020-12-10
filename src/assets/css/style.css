@@ -24,7 +24,7 @@ body::-webkit-scrollbar {
 
 #intro{
     /* background: url(.....\schuhe1.0.jpg) no-repeat center ; */
-    background: url(C:\Users\Kian\Documents\Projekte\react-bootstrap\src\assets\css\image\schuhe1.0.jpg) no-repeat center ;
+    background: url(../image/schuhe1.0.jpg) no-repeat center ;
     -webkit-background-size: cover;
     -moz-background-size:cover;
     -o-background-size:cover;
